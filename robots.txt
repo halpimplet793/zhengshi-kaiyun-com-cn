@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://halpimplet793.github.io/zhengshi-kaiyun-com-cn/sitemap.xml
